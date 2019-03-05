@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: redcharlie-672188-unsplash.jpg
+  image_fullwidth: redcharlie-unsplash.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
