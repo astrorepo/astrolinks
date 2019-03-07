@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "Podcast"
+subheadline: "Podcats de interés"
+teaser: "Los mejores podcast sobre ciencia y exploración espacial."
 header:
    image_fullwidth: "mediaplayer_js-home.jpg"
 permalink: "/getting-started/"
