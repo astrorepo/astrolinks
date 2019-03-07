@@ -5,7 +5,11 @@ title: "Podcast"
 subheadline: "Podcats de interés"
 teaser: "Los mejores podcast sobre ciencia y exploración espacial."
 header:
-   image_fullwidth: "mediaplayer_js-home.jpg"
+    title: Podcast
+    image_fullwidth: "mediaplayer_js-home.jpg"
+    caption: Podcast
+    caption_url: https://unsplash.com/
+   
 permalink: "/getting-started/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
