@@ -52,3 +52,18 @@ permalink: "/podcast/"
         <p><a href="" target="blank" alt="La brújula dela ciencia">Escuchar </a></p>
     </div>
 </div>
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}coffe_break.jpg" alt="Coffee Break">
+        <h2>Coffee Break: Señal y Ruido</h2>
+        <p>Coffee Break es la tertulia semanal en la que, medio en broma, medio en serio, repasa las últimas noticias de la actualidad científica.</p>
+        <p><a href="http://vivaldi.ll.iac.es/proyecto/coffeebreak/" target="blank" alt="Escuchar Coffee Break">Escuchar Coffee Break</a></p>
+    </div>
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}default_img.jpg" alt="">
+        <h2>Ipsum Lorem</h2>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p><a href="" target="blank" alt="">Escuchar xxxxxx</a></p>
+    </div>  
+</div><!-- /.row -->
