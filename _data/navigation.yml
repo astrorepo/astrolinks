@@ -5,6 +5,10 @@
 - title: Podcast
   url: "/getting-started/"
   side: left
+  
+- title: Revista
+  url: "/revistas/"
+  side: left
 
 - title: "Artículos"
   url: "/design/"
