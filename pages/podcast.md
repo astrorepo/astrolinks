@@ -41,8 +41,8 @@ permalink: "/podcast/"
     </div>
      <div class="medium-4 columns">
         <img src="{{ site.urlimg }}brujula.jpg" alt="La Brújula de la ciencia">
-        <h2>Órbita Leo</h2>
-        <p>La Brújula de la Ciencia.</p>
+        <h2>La Brújula de la Ciencia</h2>
+        <p>La Brújula de la Ciencia es la sección de divulgación científica del programa La Brújula, de Onda Cero radio, y está realizado por Alberto Aparici.</p>
         <p><a href="https://www.ivoox.com/podcast-brujula-ciencia_sq_f1171949_1.html" target="blank" alt="La brújula dela ciencia">Escuchar La Brújula de la Ciencia</a></p>
     </div>
      <div class="medium-4 columns">
