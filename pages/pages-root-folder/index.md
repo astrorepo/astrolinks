@@ -16,12 +16,12 @@ widget2:
   title: "Revista"
   url: 'https://astrorepo.github.io/astrolinks/revistas/'
   text: 'Cada mes (más o menos) pubicamos una revista digital recopilando nuestras salidas nocturnas, consejos y recursos de utilidad. Hecha a base de mucho amor y pinchos de tortilla :)'
-  image: podcast_302.jpg
+  image: magazine_302.jpg
 widget3:
-  title: "Blog"
+  title: "Recursos"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: resources_302.jpg
+  text: '¿Buscando una app para reconocer las estrellas? ¿Dónde encontrar cuándo es visible la ISS, o el próximo lanzamiento de SpaceX?... Aquí te dejamos una lista de recursos de lo más variado .'
 #
 # Use the call for action to show a button on the frontpage
 #
