@@ -10,13 +10,13 @@ header:
 widget1:
   title: "Podcast"
   url: 'https://astrorepo.github.io/astrolinks/podcast/'
-  image: widget-1-302x182.jpg
+  image: podcast_302.jpg
   text: 'Los mejores podcast para que no te pierdas nada de la actualidad más "espaciotrastornada". '
 widget2:
   title: "Revista"
   url: 'https://astrorepo.github.io/astrolinks/revistas/'
   text: 'Cada mes (más o menos) pubicamos una revista digital recopilando nuestras salidas nocturnas, consejos y recursos de utilidad. Hecha a base de mucho amor y pinchos de tortilla :)'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: podcast_302.jpg
 widget3:
   title: "Blog"
   url: 'https://github.com/Phlow/feeling-responsive'
