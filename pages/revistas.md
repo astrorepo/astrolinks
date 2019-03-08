@@ -19,10 +19,5 @@ permalink: "/revistas/"
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}quedadas_01.jpg" alt="Quedadas Marzo">
         <p><a href="/docs/marzo2019.pdf" target="blank" alt="Descargar revista">Revista Marzo 2019</a> (.pdf 489k)</p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
+    </div>
 </div><!-- /.row -->
