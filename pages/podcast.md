@@ -39,4 +39,16 @@ permalink: "/podcast/"
         <p>Podcast de la Asociación Leonesa Astronómica (ALA).</p>
         <p><a href="http://www.astroleon.org/orbita-leo" target="blank" alt="Órbita Leo">Escuchar Órbita Leo</a></p>
     </div>
-
+     <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}brujula.jpg" alt="La Brújula de la ciencia">
+        <h2>Órbita Leo</h2>
+        <p>La Brújula de la Ciencia.</p>
+        <p><a href="https://www.ivoox.com/podcast-brujula-ciencia_sq_f1171949_1.html" target="blank" alt="La brújula dela ciencia">Escuchar La Brújula de la Ciencia</a></p>
+    </div>
+     <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}default_img.jpg" alt="">
+        <h2>Ipsum Lorem</h2>
+        <p>Lorem Ipsum dolor sit amet.</p>
+        <p><a href="" target="blank" alt="La brújula dela ciencia">Escuchar </a></p>
+    </div>
+</div>
