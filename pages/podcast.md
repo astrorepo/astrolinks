@@ -20,7 +20,7 @@ permalink: "/podcast/"
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}rskylab.jpg" alt="Radioskylab">
         <h2>RadioSkylab</h2>
-        <p>Un podcast sobre el espacio, la ciencia y otras curiosidades.</p>
+        <p>Un podcast desenfadado sobre el espacio, la ciencia y otras curiosidades, realizado con ilusión desde Canarias por cuatro grandísimos divulgadores científicos.</p>
         <p><a href="http://radioskylab.es" target="blank" alt="Escuchar RadioSkylab">Escuchar RadioSkylab</a></p>
     </div>
     <div class="medium-6 columns b30">
