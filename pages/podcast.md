@@ -57,7 +57,7 @@ permalink: "/podcast/"
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}coffe_break.jpg" alt="Coffee Break">
         <h2>Coffee Break: Señal y Ruido</h2>
-        <p>Coffee Break es la tertulia semanal en la que, medio en broma, medio en serio, repasa las últimas noticias de la actualidad científica.</p>
+        <p>Coffee Break es la tertulia semanal en la que, medio en broma, medio en serio, Héctor Socas y compañía repasan las últimas noticias de la actualidad científica.</p>
         <p><a href="http://vivaldi.ll.iac.es/proyecto/coffeebreak/" target="blank" alt="Escuchar Coffee Break">Escuchar Coffee Break</a></p>
     </div>
     <div class="medium-6 columns b30">
