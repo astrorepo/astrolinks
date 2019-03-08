@@ -10,4 +10,4 @@ header:
     caption: Podcast
     caption_url: https://unsplash.com/
    
-permalink: "/getting-started/"
+permalink: "/revistas/"
