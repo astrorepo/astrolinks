@@ -22,14 +22,15 @@ permalink: "/podcast/"
         <h2>RadioSkylab</h2>
         <p>Un podcast sobre el espacio, la ciencia y otras curiosidades.</p>
         <p><a href="http://radioskylab.es" target="blank" alt="Escuchar RadioSkylab">RadioSkylab</a></p>
-    </div><!-- /.medium-6.columns -->
-
+    </div>
+ </div>   
+ <div class="row t60">
     <div class="medium-6 columns b30">
-         <img src="{{ site.urlimg }}rskylab.jpg" alt="Radioskylab">
+        <img src="{{ site.urlimg }}orbitaleo.jpg" alt="Óribta Leo">
         <h2>Órbita Leo</h2>
-        <p>Órbita Leo es el nuevo podcast de la Asociación Leonesa de Astronomía</p>
-        <p><a href="http://www.astroleon.org/orbita-leo" target="blank" alt="Escuchar Órbita Leo">RadioSkylab</a></p>
-    </div><!-- /.medium-6.columns -->
+        <p>Podcast de la Asociación Leonesa Astronómica (ALA).</p>
+        <p><a href="http://www.astroleon.org/orbita-leo" target="blank" alt="Órbita Leo">Órbita Leo</a></p>
+    </div>  
 </div><!-- /.row -->
 
 
