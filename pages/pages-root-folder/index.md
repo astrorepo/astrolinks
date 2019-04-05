@@ -9,17 +9,17 @@ header:
   image_fullwidth: redcharlie-unsplash.jpg
 widget1:
   title: "Podcast"
-  url: 'https://astrorepo.github.io/astrolinks/podcast/'
+  url: '/podcast/'
   image: podcast_302.jpg
   text: 'Los mejores podcast para que no te pierdas nada de la actualidad más "espaciotrastornada". '
 widget2:
   title: "Revista"
-  url: 'https://astrorepo.github.io/astrolinks/revistas/'
+  url: '/revistas/'
   text: 'Cada mes (más o menos) pubicamos una revista digital recopilando nuestras salidas nocturnas, consejos y recursos de utilidad. Hecha a base de mucho amor y pinchos de tortilla :)'
   image: magazine_302.jpg
 widget3:
   title: "Recursos"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/recursos/'
   image: resources_302.jpg
   text: '¿Buscando una app para reconocer las estrellas? ¿Dónde encontrar cuándo es visible la ISS, o el próximo lanzamiento de SpaceX?... Aquí te dejamos una lista de recursos de lo más variado .'
 #
@@ -42,5 +42,3 @@ permalink: /
 #
 homepage: true
 ---
-
-
