@@ -22,7 +22,7 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: resources_302.jpg
   text: '¿Buscando una app para reconocer las estrellas? ¿Dónde encontrar cuándo es visible la ISS, o el próximo lanzamiento de SpaceX?... Aquí te dejamos una lista de recursos de lo más variado .'
-<!--#
+#
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -36,7 +36,7 @@ widget3:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
   style: alert
-permalink: /index.html>
+permalink: /index.html!-->
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -44,9 +44,9 @@ permalink: /index.html>
 homepage: true
 ---
 
-<!--div id="videoModal" class="reveal-modal large" data-reveal="">
+<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div-->
+</div>
