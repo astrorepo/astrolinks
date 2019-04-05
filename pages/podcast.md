@@ -24,7 +24,7 @@ permalink: "/podcast/"
         <p><a href="http://radioskylab.es" target="blank" alt="Escuchar RadioSkylab">Escuchar RadioSkylab</a></p>
     </div>
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}ciencia_astrofoto.jpg" alt=Portada La Ciencia en Astrofotografía">
+        <img src="{{ site.urlimg }}ciencia_astrofoto.jpg" alt="Portada La Ciencia en Astrofotografía">
         <h2>La Ciencia en Astrofotografía</h2>
         <p>Si alguna vez te has preguntado por qué las galaxias, nebulosas, etc. tienen las formas y colores que muestran las fotos. Y si siempre has querido aventurarte en el mundo de la astrofotografía para poder fotografiarlas por ti solo/a, éste es tú podcast.</p>
         <p><a href="https://podcasts.fotografonocturno.com/la-ciencia-en-la-astrofotografia/" target="blank" alt="Escuchar La Ciencia en Astrofotografía">Escuchar La Ciencia en Astrofotografía</a></p>
@@ -49,7 +49,7 @@ permalink: "/podcast/"
         <img src="{{ site.urlimg }}fabrica_podcast.jpg" alt="Portada La Fábrica de la ciencia">
         <h2>La Fábrica de la Ciencia</h2>
         <p>Programa de divulgación científica dirigido y presentado por Jorge Onsulve.</p>
-        <p><a href="https://www.ivoox.com/podcast-fabrica-ciencia-lfdlc_sq_f1100722_1.html" target="blank" alt="Escuchar La Fábrica de la ciencia">Escuchar </a></p>
+        <p><a href="https://www.ivoox.com/podcast-fabrica-ciencia-lfdlc_sq_f1100722_1.html" target="blank" alt="Escuchar La Fábrica de la ciencia">Escuchar La Fábrica de la Ciencia</a></p>
     </div>
 </div>
 
