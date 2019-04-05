@@ -46,7 +46,7 @@ permalink: "/podcast/"
         <p><a href="https://www.ivoox.com/podcast-brujula-ciencia_sq_f1171949_1.html" target="blank" alt="Escuchar La brújula dela ciencia">Escuchar La Brújula de la Ciencia</a></p>
     </div>
      <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}fabrica-podcast.jpg" alt="Portada La Fábrica de la ciencia">
+        <img src="{{ site.urlimg }}fabrica_podcast.jpg" alt="Portada La Fábrica de la ciencia">
         <h2>La Fábrica de la Ciencia</h2>
         <p>Programa de divulgación científica dirigido y presentado por Jorge Onsulve.</p>
         <p><a href="https://www.ivoox.com/podcast-fabrica-ciencia-lfdlc_sq_f1100722_1.html" target="blank" alt="Escuchar La Fábrica de la ciencia">Escuchar </a></p>
